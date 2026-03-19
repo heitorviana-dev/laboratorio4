@@ -1,6 +1,6 @@
 """
 Laboratório 04 - O Transformer Completo From Scratch
-Disciplina: Tópicos em Inteligência Artificial – 2026.1
+Disciplina: Tópicos em Inteligência Artificial
 
 EncoderBlock(x)
   1. Self-Attention (sem máscara)        → Add & Norm
